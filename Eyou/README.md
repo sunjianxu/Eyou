@@ -1,5 +1,5 @@
 # weixin-h5
-##Versioning
+## Versioning
 ### 1.0
 * fix some bugs
 * add some features
